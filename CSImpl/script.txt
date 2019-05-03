@@ -3,7 +3,7 @@ print(i)
 
 label:
 if i > 0:
-	print('i = ' + i)
+	print("i = " + i)
 	i -= 1
 	goto label
 end
